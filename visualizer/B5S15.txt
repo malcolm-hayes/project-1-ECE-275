@@ -1,0 +1,16 @@
+[Gary Location] {2, 2} [Gary Orientation] up [Row 0] 0 0 0 0 0 [Row 1] 0 0 0 0 0 [Row 2] 0 0 0 0 0 [Row 3] 0 0 0 0 0 [Row 4] 0 0 0 0 0
+[Gary Location] {2, 3} [Gary Orientation] right [Row 0] 0 0 0 0 0 [Row 1] 0 0 0 0 0 [Row 2] 0 0 1 0 0 [Row 3] 0 0 0 0 0 [Row 4] 0 0 0 0 0
+[Gary Location] {3, 3} [Gary Orientation] down [Row 0] 0 0 0 0 0 [Row 1] 0 0 0 0 0 [Row 2] 0 0 1 1 0 [Row 3] 0 0 0 0 0 [Row 4] 0 0 0 0 0
+[Gary Location] {3, 2} [Gary Orientation] left [Row 0] 0 0 0 0 0 [Row 1] 0 0 0 0 0 [Row 2] 0 0 1 1 0 [Row 3] 0 0 0 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {2, 2} [Gary Orientation] up [Row 0] 0 0 0 0 0 [Row 1] 0 0 0 0 0 [Row 2] 0 0 1 1 0 [Row 3] 0 0 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {2, 1} [Gary Orientation] left [Row 0] 0 0 0 0 0 [Row 1] 0 0 0 0 0 [Row 2] 0 0 0 1 0 [Row 3] 0 0 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {1, 1} [Gary Orientation] up [Row 0] 0 0 0 0 0 [Row 1] 0 0 0 0 0 [Row 2] 0 1 0 1 0 [Row 3] 0 0 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {1, 2} [Gary Orientation] right [Row 0] 0 0 0 0 0 [Row 1] 0 1 0 0 0 [Row 2] 0 1 0 1 0 [Row 3] 0 0 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {2, 2} [Gary Orientation] down [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 0 1 0 1 0 [Row 3] 0 0 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {2, 1} [Gary Orientation] left [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 0 1 1 1 0 [Row 3] 0 0 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {3, 1} [Gary Orientation] down [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 0 0 1 1 0 [Row 3] 0 0 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {3, 0} [Gary Orientation] left [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 0 0 1 1 0 [Row 3] 0 1 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {2, 0} [Gary Orientation] up [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 0 0 1 1 0 [Row 3] 1 1 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {2, 1} [Gary Orientation] right [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 1 0 1 1 0 [Row 3] 1 1 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {3, 1} [Gary Orientation] down [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 1 1 1 1 0 [Row 3] 1 1 1 1 0 [Row 4] 0 0 0 0 0
+[Gary Location] {3, 2} [Gary Orientation] right [Row 0] 0 0 0 0 0 [Row 1] 0 1 1 0 0 [Row 2] 1 1 1 1 0 [Row 3] 1 0 1 1 0 [Row 4] 0 0 0 0 0
